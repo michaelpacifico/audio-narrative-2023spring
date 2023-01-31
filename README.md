@@ -1,1 +1,1 @@
-This document holds the information on what Michael Paciifico audio narrative assignment is.
+This document holds the information on what Michael Pacifico audio narrative assignment is.
