@@ -42,4 +42,4 @@ straget. “Wall Clock Ticking.wav.” Freesound, Freesound, 23 Oct. 2017, https
 
       This work is licensed under the Attribution 4.0 License. https://creativecommons.org/licenses/by/4.0/
       
-Note: All other audio resources were recording by me (Michael Pacifico).
+Note: All other audio resources were recording by me "Michael Pacifico".
